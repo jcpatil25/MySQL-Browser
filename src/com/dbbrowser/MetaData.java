@@ -13,7 +13,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import com.db.Service;
-import com.mysql.jdbc.DatabaseMetaData;
 
 /**
  * Servlet implementation class MetaData
